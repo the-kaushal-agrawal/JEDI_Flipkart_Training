@@ -1,2 +1,2 @@
 # JEDI_Flipkart_Training
-Flipkart Training
+Flipkart Training sample project
